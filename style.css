@@ -1,0 +1,32 @@
+.daigram1{
+    height: 580px;
+    width: 1300px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.previousbtn{
+    background: none;
+    color: rgb(132, 249, 132);
+    width: 200px;
+    border: 2px solid rgb(132, 246, 132);
+    height: 40px;
+    font-size: 20px;
+    position: absolute;
+    top: 530px;
+    right: 700px;
+    margin-left: 500px;
+    transition: .9s;
+}
+.next{
+    background: none;
+    color: rgb(132, 249, 132);
+    width: 200px;
+    border: 2px solid rgb(132, 246, 132);
+    height: 40px;
+    font-size: 20px;
+    position: absolute;
+    top: 530px;
+    right: 450px;
+    margin-left: 500px;
+    transition: .9s;
+}
