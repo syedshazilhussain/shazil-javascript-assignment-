@@ -26,3 +26,6 @@ function previous() {
     }
     image.src = lider[lastImage]
 }
+setInterval(function(){
+    next()
+}, 1000)
